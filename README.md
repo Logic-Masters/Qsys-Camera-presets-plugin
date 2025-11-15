@@ -16,8 +16,11 @@ A fully featured Qsys camera preset utility providing advanced control of Qsys c
   The plugin is licensed per Core or pair of redundant Cores
   Email licensing@logic-masters.com to obtain a development or perpetual license
 
+
+<p align="center">
 <img width="941" height="545" alt="cam presets 1" src="https://github.com/user-attachments/assets/18159d0f-b87e-4ef6-8168-ebf87577e997" />
-
-
-
+</p>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<p align="center">
 <img width="865" height="772" alt="cam presets 2" src="https://github.com/user-attachments/assets/38853288-4e49-4b77-ad08-3830bcc04c83" />
+</p>
