@@ -11,12 +11,13 @@ A fully featured Qsys camera preset utility providing advanced control of Qsys c
 - SVG progress bars for use with the preset press & hold buttons, the progress bars track the hold time
 - Recalibrate all cameras in the design manually or via a daily schedule
 
-  Licensing
+  Licensing:
   The plugin can be used without restriction while Emulating but file operations will be disabled, the development license allows you to test all features on a live Core, for a limited time
   The plugin is licensed per Core or pair of redundant Cores
   Email licensing@logic-masters.com to obtain a development or perpetual license
 
-<img width="941" height="545" alt="cam presets 1" src="https://github.com/user-attachments/assets/b43256a5-6886-42a6-8b92-6406cd8eeb44" />
+<img width="941" height="545" alt="cam presets 1" src="https://github.com/user-attachments/assets/18159d0f-b87e-4ef6-8168-ebf87577e997" />
+
 
 
 <img width="865" height="772" alt="cam presets 2" src="https://github.com/user-attachments/assets/38853288-4e49-4b77-ad08-3830bcc04c83" />
