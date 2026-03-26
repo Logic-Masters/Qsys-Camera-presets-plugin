@@ -7,11 +7,18 @@ A fully featured Qsys camera preset utility providing advanced control of Qsys c
 - Save camera preset coordinates to the Core with either JSON or CSV file formats, new folders on the Core can be created within the plugin
 - Load camera preset coordinates from JSON or CSV files stored on the Core
 - Load camera preset files at runtime, providing an unlimited number of presets per camera, useful for divisible spaces or spaces that can have different furniture layouts
-- Native support for the Qsys ACPR plugin, when ACPR (tracking) is enabled, the preset buttons are disabled
+- Native support for the Qsys ACPR plugin, when ACPR (tracking) is enabled, the preset buttons are disabled. Supports all ACPR plugin versions as of Nov 2025
 - SVG progress bars for use with the preset press & hold buttons, the progress bars track the hold time
 - Recalibrate all cameras in the design manually or via a daily schedule
+- Note: The Plugin can be used without restriction while Emulating but file operations will be disabled
 
-<img width="941" height="545" alt="cam presets 1" src="https://github.com/user-attachments/assets/b43256a5-6886-42a6-8b92-6406cd8eeb44" />
+  Licensing:
+  - This plugin is now provided for free and no longer requires a licensen
 
-
+<p align="center">
+<img width="941" height="545" alt="cam presets 1" src="https://github.com/user-attachments/assets/18159d0f-b87e-4ef6-8168-ebf87577e997" />
+</p>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<p align="center">
 <img width="865" height="772" alt="cam presets 2" src="https://github.com/user-attachments/assets/38853288-4e49-4b77-ad08-3830bcc04c83" />
+</p>
